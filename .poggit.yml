@@ -1,0 +1,6 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/Gamerplau3975/1.18.10-1.19.80
+build-by-default: true
+branches:
+- main
+projects: []
+...
